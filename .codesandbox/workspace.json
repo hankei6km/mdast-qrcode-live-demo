@@ -1,1 +1,1 @@
-{"preview":[{"views":[{"id":"codesandbox.browser"}]},{"open":true,"views":[{"id":"codesandbox.terminal"},{"id":"codesandbox.console"},{"id":"codesandbox.problems"}]}]}
+{"preview":[{"views":[{"id":"codesandbox.browser"},{"id":"codesandbox.browser","options":{"port":8080,"url":"https://qo5tk-8080.sse.codesandbox.io"},"closeable":true}]},{"open":true,"views":[{"id":"codesandbox.terminal"},{"id":"codesandbox.console"},{"id":"codesandbox.problems"}]}]}
