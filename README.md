@@ -1,2 +1,9 @@
 # mdast-qrcode-live-demo
-Created with CodeSandbox
+
+[mdast-qrcode](https://github.com/hankei6km/mdast-qrcode)
+
+## License
+
+MIT License
+
+Copyright (c) 2021 hankei6km
