@@ -2357,9 +2357,10 @@ mathjax-full@^3.1.2:
     mj-context-menu "^0.6.1"
     speech-rule-engine "^3.2.0"
 
-mdast-qrcode@hankei6km/mdast-qrcode:
+mdast-qrcode@^0.1.0:
   version "0.1.0"
-  resolved "https://codeload.github.com/hankei6km/mdast-qrcode/tar.gz/a8722fa983ca126fefeeefadc2ded1599bbe6705"
+  resolved "https://registry.yarnpkg.com/mdast-qrcode/-/mdast-qrcode-0.1.0.tgz#e3af0319e3666dbb5c031f0b9b86fa36f992a820"
+  integrity sha512-zK2Bu9039d/MZPEvzJLxUTiNqoTaR2vFhC5DE66Nlu1pfcaFkoekF1RcObErAJ/+/cYkG4UViYO5jQD1qz7WvA==
   dependencies:
     mdast-util-from-markdown "^0.8.5"
     mdast-util-frontmatter "^0.2.0"
