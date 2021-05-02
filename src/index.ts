@@ -62,3 +62,5 @@ fsWatch(slideDeckPath, { persistent: false }, (_eventType, filename) => {
     handleChanged(filename);
   }
 });
+
+handleChanged('*** start');
